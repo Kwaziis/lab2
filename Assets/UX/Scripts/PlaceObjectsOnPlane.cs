@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
@@ -9,7 +9,7 @@ public class PlaceObjectsOnPlane : MonoBehaviour
 {
     
     public GameObject spawner;
-     public GameObject shootScript;
+    public GameObject shootScript;
 
     
     [SerializeField]
